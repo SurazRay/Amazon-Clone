@@ -570,18 +570,18 @@ screen and (orientation : portrait) {
         font-size: x-small;
     }
 #logo{
-    width : 100%;
+    height : 100%;
 }
     .search {
         height: 2rem;
     }
 
     .hero-section {
-        height: 280dvh;
+        height: 300dvh;
     }
 
     .foot {
-        height: 60dvh;
+        height: 40dvh;
     }
 
     .redirect {
