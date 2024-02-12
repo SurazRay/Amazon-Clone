@@ -569,7 +569,9 @@ screen and (orientation : portrait) {
         line-height: 0.7rem;
         font-size: x-small;
     }
-
+#logo{
+    width : 100%;
+}
     .search {
         height: 2rem;
     }
@@ -579,7 +581,7 @@ screen and (orientation : portrait) {
     }
 
     .foot {
-        height: 65dvh;
+        height: 60dvh;
     }
 
     .redirect {
@@ -598,6 +600,6 @@ screen and (orientation : portrait) {
     }
 
     .hero-section {
-        height: 260dvh;
+        height: 210dvh;
     }
 }
